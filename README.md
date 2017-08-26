@@ -20,3 +20,4 @@ This repository mainly aims at my making notes about words and phases from what 
 - **non-trival** **不简单的**
 - **hypothesize[haɪˈpɒθəsaɪz]** **假设**
 - **To this end, we espouse[ɪˈspaʊz]**, **为此，我们“拥护”（类似propose吧）**
+- **by a large margin**, **极大地**
